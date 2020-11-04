@@ -51,19 +51,19 @@ Then go to http://127.0.0.1:8000 in your browser
 
 
 ### Home Page
-
+![Home](https://github.com/koksalkapucuoglu/Basic-Django-Blog-Project/blob/master/basic_django_blog_ss/django_index.PNG)
 
 ### Login Page
-
+![Login](https://github.com/koksalkapucuoglu/Basic-Django-Blog-Project/blob/master/basic_django_blog_ss/login%20fomr.PNG)
 
 ### Archieve Page
-
+![Archieve](https://github.com/koksalkapucuoglu/Basic-Django-Blog-Project/blob/master/basic_django_blog_ss/archieve.PNG)
 
 ### Dashboard page
-
+![Dashboard](https://github.com/koksalkapucuoglu/Basic-Django-Blog-Project/blob/master/basic_django_blog_ss/dashboard.PNG)
 
 ### Update Article page
-
+![Update Articlet](https://github.com/koksalkapucuoglu/Basic-Django-Blog-Project/blob/master/basic_django_blog_ss/update.PNG)
 
 ### Search Article page
-
+![ Search Article](https://github.com/koksalkapucuoglu/Basic-Django-Blog-Project/blob/master/basic_django_blog_ss/search.PNG)
