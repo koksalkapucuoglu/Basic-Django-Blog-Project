@@ -1,21 +1,21 @@
 {% extends "layout.html" %}
 
 {% block body %}
-<h3>Anasayfa</h3>
+<h3>Home</h3>
 <hr>
 <div class="jumbotron text-center"><!--orta merkezli bir yazı alanı oluşturur -->
-    <h3>Elektronik ve Yazılım Bloğuna Hoşgeldiniz</h3>
+    <h3>Welcome to Django Blog</h3>
     <p>
-        Bu blogta geliştiriciler olarak blog yazılarınızı paylaşabilirsiniz ve insanlara yardımcı olabilirsiniz.
+        As developers on this blog, you can share your blog posts and help people.
     </p>
 </div>
 
 
 <p>
         {% if request.user.is_authenticated %}<!--Kullanıcı kontrolü-->
-                Giriş Yapılmış, {{request.user.username}}
+            Login with {{request.user.username}}
         {% else %}
-                Giriş Yapılmamış
+            No login user
         {% endif %}
 
 </p>
