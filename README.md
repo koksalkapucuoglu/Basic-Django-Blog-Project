@@ -23,7 +23,7 @@ and install requirements type:
 pip install -r requirements.txt
 ```
 
-### In this project i have used postgres as a database, change db information in settings with your database information
+### In this project i have used sqlite as a database, change db information in settings with your database information
 ## To migrate the database open terminal in project directory and type
 ```
 python manage.py makemigrations
